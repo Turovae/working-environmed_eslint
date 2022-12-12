@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Turovae/working-environmed-babel.git"
+    "url": "git+https://github.com/Turovae/working-environmed_eslint.git"
   },
   "keywords": [
     "game"
@@ -17,9 +17,9 @@
   "author": "TurovaE",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Turovae/working-environmed-babel/issues"
+    "url": "https://github.com/Turovae/working-environmed_eslint/issues"
   },
-  "homepage": "https://github.com/Turovae/working-environmed-babel#readme",
+  "homepage": "https://github.com/Turovae/working-environmed_eslint#readme",
   "devDependencies": {
     "@babel/cli": "^7.19.3",
     "@babel/core": "^7.20.5",
